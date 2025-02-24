@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f921334fada422547a403ebc4b1226c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _TVHead: {fileID: 5675758814210269484, guid: be70fa2ba2aecde449eeb45a825b10b7,
+      type: 3}
+  - _Scout: {fileID: 7457511964854858837, guid: b6ad8c805b2a07d459024b373d8b726c,
+      type: 3}
+  - _ennemieContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

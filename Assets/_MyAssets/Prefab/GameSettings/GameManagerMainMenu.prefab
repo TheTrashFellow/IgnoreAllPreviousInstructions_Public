@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2147027386109332537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6172320377196224077}
+  - component: {fileID: 78790551898118985}
+  m_Layer: 0
+  m_Name: GameManagerMainMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6172320377196224077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2147027386109332537}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 41.5, y: 0, z: 177.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &78790551898118985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2147027386109332537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346c8bee3eb3c4448950febb7ab95ca0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 0}
+  _hapticStrength: 0.5
+  _hapticDuration: 0.5
+  _mainMenu: {fileID: 0}
+  _testMenu: {fileID: 0}
+  _pauseMenu: {fileID: 0}
+  _weaponMenu: {fileID: 0}
+  _spawner: {fileID: 0}
+  _btnStopTest: {fileID: 0}
+  _enemyPrefab: {fileID: 3292230416563416993, guid: b6e28f3e28ccd2449a440b470ab59aed,
+    type: 3}
+  _buttonPrefab: {fileID: 6003093843127187837, guid: e61c37ca1257efc4ab69f1266fcb5be7,
+    type: 3}
+  _inventorySpawn: {fileID: 0}
+  _ennemiesContainer: {fileID: 0}
+  _shotgun: {fileID: 0}
+  _revolver: {fileID: 0}
+  _spawnerBullet: {fileID: 0}
+  _bulletPrefab: {fileID: 8991958764972503752, guid: ff50593e5d0d58c41ab1d519fa39c5c2,
+    type: 3}
+  _spawnerShell: {fileID: 0}
+  _shellPrefab: {fileID: 8299483164483481310, guid: 8ffa2ec7901817649852f51ff080e289,
+    type: 3}

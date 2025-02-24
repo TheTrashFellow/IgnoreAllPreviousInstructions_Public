@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3eb2edc9c9cb73545ad558626b2ba285
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _raycastOrigin: {instanceID: 0}
+  - _muzzleFlash: {instanceID: 0}
+  - _animator: {instanceID: 0}
+  - _gunshotAudioSource: {instanceID: 0}
+  - _openRevolver: {fileID: 8300000, guid: a8765bfb1a9162545b1cb8b6dc2719ad, type: 3}
+  - _closeRevolver: {fileID: 8300000, guid: c396de33a7355d24bae3c0092410a2b6, type: 3}
+  - _addBullet: {fileID: 8300000, guid: 60fcd33fb25ac674981565c0116004e0, type: 3}
+  - _leftHandInput: {instanceID: 0}
+  - _rightHandInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

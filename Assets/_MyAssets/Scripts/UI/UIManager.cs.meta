@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e09e3379480c9f3438c322c576e86374
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _mainMenu: {instanceID: 0}
+  - _testMenu: {instanceID: 0}
+  - _btnTest: {instanceID: 0}
+  - _pauseMenu: {instanceID: 0}
+  - _optionMenu: {instanceID: 0}
+  - _optionsPanel: {instanceID: 0}
+  - _instructionsPanel: {instanceID: 0}
+  - _txtBienvenuePanel: {instanceID: 0}
+  - _txtSnapTurn: {instanceID: 0}
+  - _txtMusiqueFond: {instanceID: 0}
+  - _txtVitesseJoueur: {instanceID: 0}
+  - _txtSonEffetSpeciax: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
